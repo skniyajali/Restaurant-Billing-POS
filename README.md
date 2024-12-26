@@ -343,8 +343,12 @@ Please ensure your code adheres to our coding standards and is well-tested.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fskniyajali%2FRestaurant-Billing-POS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fskniyajali%2FRestaurant-Billing-POS?ref=badge_large)
+
 ## Screenshots
-| ![1](docs/mockup/1.png)   | ![2](docs/mockup/2.png)   | ![3](docs/mockup/3.png)   |
+| ![1](docs/mockup/1.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fskniyajali%2FRestaurant-Billing-POS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fskniyajali%2FRestaurant-Billing-POS?ref=badge_shield)
+  | ![2](docs/mockup/2.png)   | ![3](docs/mockup/3.png)   |
 |---------------------------|---------------------------|---------------------------|
 | ![4](docs/mockup/4.png)   | ![5](docs/mockup/5.png)   | ![6](docs/mockup/6.png)   |
 | ![7](docs/mockup/7.png)   | ![8](docs/mockup/8.png)   | ![9](docs/mockup/9.png)   |
