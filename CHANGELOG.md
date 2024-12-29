@@ -1,5 +1,9 @@
 # Changelog
 
+## 2024.12.5 - 2024-12-29
+
+./app/build/outputs/changelogGithub.md
+
 ## 2024.12.4 - 2024-12-22
 
 ./app/build/outputs/changelogGithub.md
