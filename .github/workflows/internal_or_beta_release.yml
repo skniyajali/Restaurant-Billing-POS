@@ -126,7 +126,7 @@ jobs:
       - name: 🤖 Create Github Pre-Release
         id: create_release
         if: github.event.inputs.release_type == 'beta'
-        uses: softprops/action-gh-release@v2.0.8
+        uses: softprops/action-gh-release@v2.1.0
         with:
           tag_name: ${{ steps.rel_number.outputs.version }}
           draft: false
